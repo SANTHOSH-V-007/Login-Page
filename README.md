@@ -23,8 +23,8 @@ Key Features:
 
 * Social Login Options:
 
-Google, Facebook, and Apple login buttons
-Or-divider with horizontal lines
+  Google, Facebook, and Apple login buttons
+  Or-divider with horizontal lines
 
 * Accessibility:
 
