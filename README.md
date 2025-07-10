@@ -2,32 +2,35 @@
 
 Key Features:
 
-* Modern UI Design: *
+* Modern UI Design: 
 
 Clean, card-based layout with subtle shadows and rounded corners
 Smooth gradient background
 Responsive design that works on all device sizes
 Form Validation:
 
-Email format validation
+* Email format validation
 Password length validation (min 6 characters)
 Visual feedback on validation (green/red borders)
-Enhanced UX:
 
+* Enhanced UX:
 Password visibility toggle
 "Remember me" checkbox
 Forgot password link
 Smooth hover effects and animations
-Social Login Options:
+
+* Social Login Options:
 
 Google, Facebook, and Apple login buttons
 Or-divider with horizontal lines
-Accessibility:
+
+* Accessibility:
 
 Proper form labels
 Semantic HTML structure
 Focus states for interactive elements
-The JavaScript handles:
+
+* The JavaScript handles:
 
 Form validation before submission
 Password visibility toggle
